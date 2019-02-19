@@ -17,7 +17,7 @@ import okhttp3.Response;
 public class ExchangeService {
     private static ExchangeService instance;
     private final OkHttpClient client;
-    private static final String URL_TICKER = "https://bittrex.com/api/v1.1/public/getmarketsummary?market=btc-ark";
+    private static final String URL_TICKER = "https://bittrex.com/api/v1.1/public/getmarketsummary?market=btc-doge";
 
     private static final String BITCOIN_EUR_URL_TICKER = "https://www.bitstamp.net/api/v2/ticker/btceur/";
     private static final String BITCOIN_USD_URL_TICKER = "https://www.bitstamp.net/api/v2/ticker/btcusd/";

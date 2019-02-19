@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public enum Server {
-    qredit1(0, "api.qredit.cloud", "http://api.qredit.cloud/api/"),
+    qredit1(0, "Qredit Cloud", "https://qredit.cloud/api/"),
     custom(1, "Custom", "");
 
     private final int id;

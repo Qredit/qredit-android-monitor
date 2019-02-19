@@ -1,13 +1,13 @@
 <resources>
 
-    <string name="app_name">Qredit Monitor</string>
+    <string name="app_name">Qredit Delegate Monitor</string>
     <string name="action_alarm">Alarm</string>
     <string name="empty" />
     <string name="undefined">-</string>
     <string name="percent_symbol">%</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="current_version">Version 1.3.1</string>
+    <string name="current_version">Version 2.0.0</string>
     <string name="for_txt">for</string>
     <string name="android_txt">Android</string>
 
@@ -31,7 +31,7 @@
     <string name="ip_address_message">Please enter a valid ip address</string>
     <string name="username_message">Please enter a valid username</string>
     <string name="port">Port</string>
-    <string name="port_hint">4001</string>
+    <string name="port_hint">4101</string>
     <string name="port_message">Please enter a valid port</string>
     <string name="ssl_enabled">SSL enabled?</string>
 
@@ -44,7 +44,7 @@
 
     <!-- Delegates-->
     <string name="rank">Rank</string>
-    <string name="username">Username</string>
+    <string name="username">Delegate Name</string>
     <string name="address">Address</string>
     <string name="productivity">Productivity</string>
     <string name="last_block_forged">Last block forged</string>

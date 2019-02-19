@@ -177,9 +177,7 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_settings) {
             fragment = new SettingsFragment();
             setTitle(R.string.nav_settings);
-        } else if (id == R.id.nav_votes_made) {
-            fragment = new VotesFragment();
-            setTitle(R.string.nav_votes_made);
+
         } else if (id == R.id.nav_votes_received) {
             fragment = new VotersFragment();
             setTitle(R.string.nav_votes_received);
